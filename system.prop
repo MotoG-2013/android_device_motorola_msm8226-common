@@ -6,6 +6,7 @@ audio.offload.24bit.enable=false
 audio.offload.buffer.size.kb=32
 audio.offload.gapless.enabled=true
 audio.offload.multiple.enabled=false
+tunnel.audio.encode=false
 
 av.offload.enable=false
 av.streaming.offload.enable=false
