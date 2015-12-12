@@ -97,6 +97,9 @@ persist.sys.isUsbOtgEnabled=true
 # Strictmode
 persist.sys.strictmode.disable=true
 
+# Subsystem
+persist.sys.ssr.enable_debug=0
+
 # USB
 ro.usb.mtp=0x2e82
 ro.usb.mtp_adb=0x2e76
