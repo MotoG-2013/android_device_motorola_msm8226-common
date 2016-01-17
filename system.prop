@@ -94,9 +94,6 @@ sys.io.scheduler=bfq
 # Storage
 persist.sys.isUsbOtgEnabled=true
 
-# Strictmode
-persist.sys.strictmode.disable=true
-
 # Subsystem
 persist.sys.ssr.enable_debug=0
 
