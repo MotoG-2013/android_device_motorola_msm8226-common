@@ -228,6 +228,21 @@
          config to 7. -->
     <integer name="config_deviceHardwareWakeKeys">64</integer>
 
+    <!-- Performance profiles -->
+    <string-array name="perf_profile_entries" translatable="false">
+        <item>@string/perf_profile_pwrsv</item>
+        <item>@string/perf_profile_bal</item>
+        <item>@string/perf_profile_perf</item>
+        <item>@string/perf_profile_bias_power</item>
+    </string-array>
+
+    <string-array name="perf_profile_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
     <!-- Defines the system property to set for performance profile xe: sys.cpu.modes. Leave it
          blank if the device do not support performance profiles -->
     <string name="config_perf_profile_prop" translatable="false">powerhal</string>
