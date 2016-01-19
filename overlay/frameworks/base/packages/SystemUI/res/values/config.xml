@@ -12,6 +12,9 @@
      limitations under the License.
 -->
 <resources>
+    <!-- Doze: when to pulse after a buzzworthy notification arrives -->
+    <string name="doze_pulse_schedule" translatable="false">5s,15s,30s,60s</string>
+
     <!-- Performance profiles description-->
     <string-array name="perf_profile_description" translatable="false">
         <item>@string/accessibility_quick_settings_perf_profile_pwrsv</item>
