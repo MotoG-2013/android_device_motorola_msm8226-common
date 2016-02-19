@@ -24,4 +24,18 @@
     <!-- Default screen brightness, from 0 to 255. 94 is 37%. -->
     <integer name="def_screen_brightness">94</integer>
 
+    <bool name="def_volume_adjust_sounds_enabled">false</bool>
+
+    <bool name="def_accelerometer_rotation">false</bool>
+
+    <bool name="def_sound_effects_enabled">false</bool>
+
+    <bool name="def_system_profiles_enabled">false</bool>
+
+    <integer name="def_double_tap_sleep_gesture">0</integer>
+
+    <bool name="def_vibrate_when_ringing_enabled">true</bool>
+
+    <bool name="def_swap_volume_keys_on_rotation">true</bool>
+
 </resources>
